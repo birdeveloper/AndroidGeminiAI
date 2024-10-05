@@ -34,3 +34,7 @@ The app demonstrates how to:
 
 # Article
 https://gorkemkara.net/building-android-app-with-gemini-ai/
+
+# Screenshots
+
+https://github.com/birdeveloper/AndroidGeminiAI/blob/master/gemini-screenshot1.png
